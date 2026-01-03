@@ -1,4 +1,8 @@
 # Fuzzy Logic Controller for FCCU
 
 This project investigates the methods for creating nonlinear models and developing Fuzzy logic controllers for the Fluidized Catalytic Cracking Unit (FCCU) at different global refineries. The FCCU plays a crucial role in the petrochemical sector, processing a significant portion of the world's crude oil-in 2006, FCCUs were responsible for refining a third of the global crude oil supply. These units are essential for converting heavier oils, such as gasoil and crude oil, into lighter, more critical products like gasoline and olefinic gases. Given their efficiency in producing a large volume of products and the volatile nature of petrochemical market prices, optimization of these units is a priority for engineers and investors. Traditional control mechanisms often need to improve in managing the FCCU's complex, dynamic, and nonlinear operations, where creating an accurate mathematical model is challenging or involves significant simplifications. Fuzzy Logic controllers, which mimic human reasoning more closely than conventional methods, offer a promising alternative for such unpredictable and complex systems. The simulations were conducted with the MATLAB Fuzzy Logic Toolbox R2012b and the findings were published in the (IJACSA) International Journal of Advanced Computer Science and Applications, Vol. 15, No. 8, 2024.
+ 
+ ---
 
+ ## Research Paper Link
+ https://dx.doi.org/10.14569/IJACSA.2024.0150843
